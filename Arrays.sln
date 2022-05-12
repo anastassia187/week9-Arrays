@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FortuneCookie", "FortuneCookie\FortuneCookie.csproj", "{F369E69F-AD7E-494E-8562-24651FC698F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatterOfTaste", "MatterOfTaste\MatterOfTaste.csproj", "{4222C74C-48CC-4995-932C-DE06AA41EF29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F369E69F-AD7E-494E-8562-24651FC698F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F369E69F-AD7E-494E-8562-24651FC698F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F369E69F-AD7E-494E-8562-24651FC698F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F369E69F-AD7E-494E-8562-24651FC698F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4222C74C-48CC-4995-932C-DE06AA41EF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4222C74C-48CC-4995-932C-DE06AA41EF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4222C74C-48CC-4995-932C-DE06AA41EF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4222C74C-48CC-4995-932C-DE06AA41EF29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {188EA04B-085C-43AF-A220-6EA5B193921B}
+	EndGlobalSection
+EndGlobal
